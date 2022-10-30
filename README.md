@@ -11,8 +11,9 @@ Authors: connor saunders//jimmy tran
 
 User Instructions: 
 1) Clone the github repository. 
-2) Open game-loop.cc
-3) Compile and Run (preferably with full screen terminal)
+2) Ensure that you have a c++ compiler
+3) Open game-loop.cc
+4) Compile and Run (preferably with full screen terminal)
 
 Completeness: 
 Creativity: Implemented unique ideas from scratch while being limited to text based visual.
